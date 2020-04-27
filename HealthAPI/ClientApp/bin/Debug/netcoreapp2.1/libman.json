@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "jquery@3.2.1", //version of jquery
+      "files": [ "jquery.min.js", "jquery.min.map" ], //name of files
+      "destination": "wwwroot/lib/jquery" // it will save the jquery under folder called lib
+    }
+  ]
+}

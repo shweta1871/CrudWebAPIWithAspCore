@@ -1,0 +1,15 @@
+D:\WorkArea\Practice\HealthAPI\ClientApp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\WorkArea\Practice\HealthAPI\ClientApp\bin\Debug\netcoreapp2.1\ClientApp.deps.json
+D:\WorkArea\Practice\HealthAPI\ClientApp\bin\Debug\netcoreapp2.1\ClientApp.runtimeconfig.json
+D:\WorkArea\Practice\HealthAPI\ClientApp\bin\Debug\netcoreapp2.1\ClientApp.runtimeconfig.dev.json
+D:\WorkArea\Practice\HealthAPI\ClientApp\bin\Debug\netcoreapp2.1\ClientApp.dll
+D:\WorkArea\Practice\HealthAPI\ClientApp\bin\Debug\netcoreapp2.1\ClientApp.pdb
+D:\WorkArea\Practice\HealthAPI\ClientApp\obj\Debug\netcoreapp2.1\ClientApp.RazorAssemblyInfo.cache
+D:\WorkArea\Practice\HealthAPI\ClientApp\obj\Debug\netcoreapp2.1\ClientApp.RazorAssemblyInfo.cs
+D:\WorkArea\Practice\HealthAPI\ClientApp\obj\Debug\netcoreapp2.1\ClientApp.AssemblyInfoInputs.cache
+D:\WorkArea\Practice\HealthAPI\ClientApp\obj\Debug\netcoreapp2.1\ClientApp.AssemblyInfo.cs
+D:\WorkArea\Practice\HealthAPI\ClientApp\obj\Debug\netcoreapp2.1\ClientApp.RazorTargetAssemblyInfo.cache
+D:\WorkArea\Practice\HealthAPI\ClientApp\obj\Debug\netcoreapp2.1\ClientApp.dll
+D:\WorkArea\Practice\HealthAPI\ClientApp\obj\Debug\netcoreapp2.1\ClientApp.pdb
+D:\WorkArea\Practice\HealthAPI\ClientApp\bin\Debug\netcoreapp2.1\libman.json
+D:\WorkArea\Practice\HealthAPI\ClientApp\obj\Debug\netcoreapp2.1\ClientApp.csprojAssemblyReference.cache
